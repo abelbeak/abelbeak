@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[AbelBeak's github stats](https://github-readme-stats.vercel.app/api?username=abelbeak&show_icons=true)
 <!--
 **abelbeak/abelbeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
