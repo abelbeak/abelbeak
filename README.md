@@ -5,8 +5,8 @@
 
 ## ⚒️ MY Skills
 
-> #Language
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+> # Language
+> ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -20,8 +20,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-> #Tools
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+> # Tools
+> ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
