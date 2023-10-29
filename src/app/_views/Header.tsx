@@ -20,7 +20,7 @@ export default function Header() {
 
   return (
     <header
-      style={{ height: isOpen ? 'calc(32vh - 75px)' : '75px' }}
+      style={{ height: isOpen ? '310px' : '75px' }}
       className=" overflow-hidden bg-white px-8 shadow-default transition-all duration-500 md:container backdrop:blur-md md:mt-4 md:justify-normal md:rounded-2xl"
     >
       <div className="flex h-[75px] items-center justify-between gap-8">
