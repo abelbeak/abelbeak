@@ -25,7 +25,7 @@ export default function Header() {
     >
       <div className="flex h-[75px] items-center justify-between gap-8">
         <h1 className="leading-normal">
-          <b>AbelBeak Homepage</b>
+          <b>Abel Beak Homepage</b>
         </h1>
         <nav className="hidden flex-1 items-center justify-center gap-8 md:flex">
           {LiNKS.map((item, index) => {
