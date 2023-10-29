@@ -8,9 +8,21 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      container: {
+        center: true,
+      },
+      spacing: {
+        18: '4.5rem',
+        15: '3.75rem',
+        19: '4.75rem',
+        32: '8rem',
+        34: '8.5rem',
+        62: '15.5rem',
+        100: '25rem',
+      },
+      boxShadow: {
+        default: '0px 1px 2px -1px rgba(0, 0, 0, 0.10), 0px 1px 3px 0px rgba(0, 0, 0, 0.10);',
+        button: '0px 2px 4px -2px rgba(33, 33, 33, 0.20), 0px 4px 6px -1px rgba(33, 33, 33, 0.20);',
       },
     },
   },

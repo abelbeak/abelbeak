@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import localFont from 'next/font/local';
 import './globals.css';
+import Header from './_views/Header';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -30,7 +31,10 @@ const myFont = localFont({
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ko">
-      <body className={myFont.className}>{children}</body>
+      <body className={myFont.className.concat(' ', `bg-gray-50 text-gray-900`)}>
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }
